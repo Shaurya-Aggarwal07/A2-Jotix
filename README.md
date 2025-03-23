@@ -1,14 +1,12 @@
 # Jotix - Modern Note-Taking Application
 
-![Jotix Logo](https://via.placeholder.com/150x50?text=Jotix)
-
 ## Overview
 
 Jotix is a versatile browser-based note-taking application that helps you organize your thoughts, tasks, and information in one convenient place. With dual-mode functionality, you can easily switch between checkable task lists and free-form notes.
 
 ## Live Demo
 
-[View Live Demo](https://jotix-notes.netlify.app) *(placeholder link)*
+[View Live Demo](https://jotix.netlify.app/) 
 
 ## Features
 
