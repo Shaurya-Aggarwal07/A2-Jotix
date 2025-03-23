@@ -14,7 +14,7 @@ const Welcome = ({ setUsername }) => {
   return (
     <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
       <div className="bg-white p-8 rounded-xl w-96 max-w-[90%]">
-        <h2 className="text-2xl font-bold mb-4">Welcome to iNotes!</h2>
+        <h2 className="text-2xl font-bold mb-4">Welcome to Jotix!</h2>
         <p className="mb-4">Please enter your name to get started:</p>
         <form onSubmit={handleSubmit} className="flex flex-col gap-4">
           <input
