@@ -5,7 +5,7 @@ const Home = ({ username }) => {
     <div className="md:container md:mx-auto mx-3 my-5 flex flex-col items-center justify-center">
       <div className="bg-white rounded-xl p-8 w-full max-w-4xl shadow-lg">
         <div className="text-center mb-8">
-          <h1 className="text-4xl font-bold text-slate-800 mb-2">Welcome to iNotes</h1>
+          <h1 className="text-4xl font-bold text-slate-800 mb-2">Welcome to Jotix</h1>
           {username && <p className="text-lg text-slate-600">Hey there, {username}!</p>}
         </div>
         
@@ -65,7 +65,7 @@ const Home = ({ username }) => {
         </div>
         
         <div className="mt-8 text-center text-slate-500 text-sm">
-          <p>iNotes - Write, Save, Check Off, Stay Organized!</p>
+          <p>Jotix - Write, Save, Check Off, Stay Organized!</p>
           <p>Last updated: 2025-03-23</p>
         </div>
       </div>
