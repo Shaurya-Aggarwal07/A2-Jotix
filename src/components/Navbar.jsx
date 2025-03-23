@@ -11,7 +11,7 @@ const Navbar = ({
   return (
     <nav className="bg-slate-900 w-full text-white py-2 flex flex-wrap justify-between items-center sticky top-0 px-4">
         <div className="logo flex items-center">
-            <h1 className='font-bold text-xl cursor-pointer' onClick={goToHome}>iNotes</h1>
+            <h1 className='font-bold text-xl cursor-pointer' onClick={goToHome}>Jotix</h1>
         </div>
         
         <div className="flex items-center gap-2 md:gap-4">
