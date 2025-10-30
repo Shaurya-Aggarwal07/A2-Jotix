@@ -1,8 +1,7 @@
 # Jotix - Modern Note-Taking Application
 
 ## Overview
-
-Jotix is a versatile browser-based note-taking application that helps you organize your thoughts, tasks, and information in one convenient place. With dual-mode functionality, you can easily switch between checkable task lists and free-form notes.
+A versatile browser-based note-taking application that helps you organize your thoughts, tasks, and information in one convenient place. With dual-mode functionality, you can easily switch between checkable task lists and free-form notes.
 
 ## Features
 
@@ -41,21 +40,5 @@ Jotix is a versatile browser-based note-taking application that helps you organi
 
 ## Technology Stack
 
-- React.js
-- Tailwind CSS
-- Local browser storage
-- UUID for unique identifiers
-- React Icons
-
-## Getting Started
-
-### Prerequisites
-- Node.js (v14 or higher)
-- npm or yarn
-
-### Installation
-
-1. Clone the repository
-```bash
-git clone https://github.com/yourusername/jotix.git
-cd jotix
+- Frontend: React.js + Tailwind CSS
+- Storgae: Local storage in browser
